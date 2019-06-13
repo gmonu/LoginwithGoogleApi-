@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124151306459",
+    "firebase_url": "https://forchecklogin.firebaseio.com",
+    "project_id": "forchecklogin",
+    "storage_bucket": "forchecklogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124151306459:android:61822e299f93f060",
+        "android_client_info": {
+          "package_name": "com.example.forchecklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124151306459-sa0ed0n9air13d7buf9eu8ol6d19jvur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forchecklogin",
+            "certificate_hash": "b4a5d4d42512fbadf263a81cdffa28775c68ed1f"
+          }
+        },
+        {
+          "client_id": "124151306459-pmgkb8v3d0f77oc2imll9ko81rj6ajml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvg2ER0v8x1NXW7VXTAEYRcdlWP32dLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124151306459-pmgkb8v3d0f77oc2imll9ko81rj6ajml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
